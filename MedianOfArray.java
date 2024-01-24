@@ -14,6 +14,8 @@ public class MedianOfArray {
         arr.add(3);
         arr.add(9);
         arr.add(2);
+        arr.add(20);
+        arr.add(12);
         System.out.println(medianFinder(arr));
     }    
 }
